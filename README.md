@@ -1,6 +1,6 @@
 <!-- img portada-->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Rivendell2003/Rivendell2003/main/banner.png" alt="Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/Rivendell2003/Rivendell2003/main/banner2.png" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hola, soy <a href="https://github.com/Rivendell2003">Jonny</a> 👋</h1>
