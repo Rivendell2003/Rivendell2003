@@ -14,7 +14,7 @@
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/Rivendell2003?style=social" />
   </a>
   <a href="https://twitter.com/rivendell2003">
-    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Rivendell2003?style=social" />
+    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/JonnyApiolaza?style=social" />
   </a>
 </p>
 
